@@ -40,42 +40,34 @@
   </nav>
   <!-- .nav -->
 
-  <!-- ===== TECH STAT BAR ===== -->
-  <div class="w-100" style="
-    border-top: 1px solid rgba(99,179,237,0.15);
-    padding: 14px 16px 10px;
+  <!-- ===== FOOTPRINT COUNTER ===== -->
+  <div class="w-100 text-center" style="
+    border-top: 1px solid rgba(255,255,255,0.08);
+    padding: 14px 12px 10px;
   ">
-    <!-- Subtle divider label -->
-    <div style="
-      font-size: 0.58rem;
-      letter-spacing: 0.18em;
-      text-transform: uppercase;
-      color: rgba(99,179,237,0.45);
-      margin-bottom: 10px;
-      font-family: monospace;
-    ">// STATS</div>
+    <div style="font-size: 0.72rem; opacity: 0.5; margin-bottom: 8px;">無論你是第幾個腳印<br>感謝你的時間</div>
 
-    <!-- Stat rows -->
-    <div style="font-family: monospace; font-size: 0.72rem; line-height: 1.9;">
+    <!-- Old blog count: clickable -->
+    <div style="margin-bottom: 4px;">
+      <a href="https://ahbundance.blogspot.com/" target="_blank" rel="noopener noreferrer"
+         title="舊部落格" style="text-decoration: none;">
+        <span id="stat-old" style="
+          display: inline-flex; gap: 3px; font-family: monospace;
+        "></span>
+      </a>
+    </div>
 
-      <div class="d-flex justify-content-between align-items-center">
-        <span style="color: rgba(255,255,255,0.35);">total_visits</span>
-        <span style="color: rgba(99,179,237,0.85); font-weight: 700;" id="stat-total">…</span>
-      </div>
+    <!-- Plus sign -->
+    <div style="font-size: 0.7rem; opacity: 0.35; margin: 2px 0;">+</div>
 
-      <div class="d-flex justify-content-between align-items-center">
-        <span style="color: rgba(255,255,255,0.35);">today</span>
-        <span style="color: rgba(255,255,255,0.6);" id="stat-today">…</span>
-      </div>
-
-      <div class="d-flex justify-content-between align-items-center">
-        <span style="color: rgba(255,255,255,0.35);">online_now</span>
-        <span style="color: #68d391; font-weight: 700;" id="stat-online">…</span>
-      </div>
-
+    <!-- New site count -->
+    <div>
+      <span id="stat-new" style="
+        display: inline-flex; gap: 3px; font-family: monospace;
+      "></span>
     </div>
   </div>
-  <!-- ===== END TECH STAT BAR ===== -->
+  <!-- ===== END FOOTPRINT COUNTER ===== -->
 
   <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
     {% unless site.theme_mode %}
@@ -139,30 +131,28 @@
 
 <script>
 (function () {
-  var BASE = 135042;
+  var OLD_COUNT = 135043;
   var ns = 'mbbfmlive';
-  var d = new Date();
-  var today = d.getFullYear() + '' + (d.getMonth() + 1).toString().padStart(2, '0') + d.getDate().toString().padStart(2, '0');
-  var slot = today + 'h' + d.getHours() + 'q' + Math.floor(d.getMinutes() / 15);
 
-  function setText(id, val) {
-    var el = document.getElementById(id);
-    if (el) el.textContent = Number(val).toLocaleString();
+  // Render digit boxes
+  function renderDigits(containerId, num) {
+    var el = document.getElementById(containerId);
+    if (!el) return;
+    var digits = String(num).split('');
+    el.innerHTML = digits.map(function (d) {
+      return '<span style="display:inline-block;width:20px;height:26px;line-height:26px;text-align:center;' +
+        'background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.12);border-radius:3px;' +
+        'font-size:0.85rem;font-weight:700;color:rgba(255,255,255,0.75);">' + d + '</span>';
+    }).join('');
   }
 
+  // Old blog: static
+  renderDigits('stat-old', OLD_COUNT);
+
+  // New site: live counter
   fetch('https://api.counterapi.dev/v1/' + ns + '/visits/hit')
     .then(function (r) { return r.json(); })
-    .then(function (data) { setText('stat-total', BASE + (data.count || 0)); })
-    .catch(function () { setText('stat-total', BASE + '+'); });
-
-  fetch('https://api.counterapi.dev/v1/' + ns + '/day' + today + '/hit')
-    .then(function (r) { return r.json(); })
-    .then(function (data) { setText('stat-today', data.count || 0); })
-    .catch(function () { setText('stat-today', '—'); });
-
-  fetch('https://api.counterapi.dev/v1/' + ns + '/' + slot + '/hit')
-    .then(function (r) { return r.json(); })
-    .then(function (data) { setText('stat-online', data.count || 0); })
-    .catch(function () { setText('stat-online', '—'); });
+    .then(function (data) { renderDigits('stat-new', data.count || 0); })
+    .catch(function () { renderDigits('stat-new', 0); });
 })();
 </script>
