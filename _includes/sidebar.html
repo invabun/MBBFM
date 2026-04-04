@@ -40,27 +40,42 @@
   </nav>
   <!-- .nav -->
 
-  <!-- ===== CUSTOM WIDGETS ===== -->
-  <div class="w-100 px-3 py-2" style="border-top: 1px solid rgba(255,255,255,0.1);">
+  <!-- ===== TECH STAT BAR ===== -->
+  <div class="w-100" style="
+    border-top: 1px solid rgba(99,179,237,0.15);
+    padding: 14px 16px 10px;
+  ">
+    <!-- Subtle divider label -->
+    <div style="
+      font-size: 0.58rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(99,179,237,0.45);
+      margin-bottom: 10px;
+      font-family: monospace;
+    ">// STATS</div>
 
-    <!-- Random Posts -->
-    <p class="mb-2 mt-1" style="font-size:0.65rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; opacity:0.5;">随机文章</p>
-    <ul class="list-unstyled mb-0">
-      {% assign rand_posts = site.posts | sample: 3 %}
-      {% for post in rand_posts %}
-      <li class="mb-1" style="font-size:0.78rem;">
-        <a href="{{ post.url | relative_url }}"
-           title="{{ post.title }}"
-           style="opacity:0.75; text-decoration:none; display:block; overflow:hidden; white-space:nowrap; text-overflow:ellipsis;"
-           onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.75'">
-          {{ post.title | truncate: 26 }}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
+    <!-- Stat rows -->
+    <div style="font-family: monospace; font-size: 0.72rem; line-height: 1.9;">
 
+      <div class="d-flex justify-content-between align-items-center">
+        <span style="color: rgba(255,255,255,0.35);">total_visits</span>
+        <span style="color: rgba(99,179,237,0.85); font-weight: 700;" id="stat-total">…</span>
+      </div>
+
+      <div class="d-flex justify-content-between align-items-center">
+        <span style="color: rgba(255,255,255,0.35);">today</span>
+        <span style="color: rgba(255,255,255,0.6);" id="stat-today">…</span>
+      </div>
+
+      <div class="d-flex justify-content-between align-items-center">
+        <span style="color: rgba(255,255,255,0.35);">online_now</span>
+        <span style="color: #68d391; font-weight: 700;" id="stat-online">…</span>
+      </div>
+
+    </div>
   </div>
-  <!-- ===== END CUSTOM WIDGETS ===== -->
+  <!-- ===== END TECH STAT BAR ===== -->
 
   <div class="sidebar-bottom d-flex flex-wrap align-items-center w-100">
     {% unless site.theme_mode %}
@@ -121,28 +136,6 @@
 
 </aside>
 <!-- #sidebar -->
-
-<!-- Visitor counter: fixed top-right badge -->
-<div id="visitor-badge" style="
-  position: fixed;
-  top: 12px;
-  right: 16px;
-  z-index: 9999;
-  display: flex;
-  gap: 8px;
-  font-family: monospace;
-  font-size: 0.72rem;
-">
-  <span style="background:rgba(0,0,0,0.55); border:1px solid rgba(255,255,255,0.15); border-radius:6px; padding:3px 8px; backdrop-filter:blur(6px);">
-    👁 <span id="stat-total">…</span>
-  </span>
-  <span style="background:rgba(0,0,0,0.55); border:1px solid rgba(255,255,255,0.15); border-radius:6px; padding:3px 8px; backdrop-filter:blur(6px);">
-    📅 <span id="stat-today">…</span>
-  </span>
-  <span style="background:rgba(0,0,0,0.55); border:1px solid rgba(255,255,255,0.15); border-radius:6px; padding:3px 8px; backdrop-filter:blur(6px);">
-    🟢 <span id="stat-online">…</span>
-  </span>
-</div>
 
 <script>
 (function () {
