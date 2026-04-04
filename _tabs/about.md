@@ -38,4 +38,3 @@ order: 4
 
 - 📺 YouTube：[MBBFM](https://www.youtube.com/@MBBFM)
 - 💻 GitHub：[invabun](https://github.com/invabun)
-- 📷 Instagram：[bruce_mui](https://www.instagram.com/bruce_mui/)
