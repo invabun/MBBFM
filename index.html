@@ -1,4 +1,202 @@
 ---
-layout: home
-# Index page
+layout: page
+title: ""
 ---
+
+<style>
+  .landing {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  .landing h1 {
+    font-size: 2.4rem;
+    font-weight: 300;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.3rem;
+    background: linear-gradient(135deg, #63b3ed 0%, #68d391 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .landing .tagline {
+    font-size: 0.9rem;
+    opacity: 0.45;
+    letter-spacing: 0.1em;
+    font-family: monospace;
+    margin-bottom: 2.5rem;
+  }
+  .landing .intro {
+    max-width: 520px;
+    margin: 0 auto 2.5rem;
+    font-size: 0.92rem;
+    line-height: 1.8;
+    opacity: 0.7;
+  }
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    max-width: 640px;
+    margin: 0 auto 2.5rem;
+  }
+  .card-grid a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 18px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.25s ease;
+  }
+  .card-grid a:hover {
+    background: rgba(99, 179, 237, 0.08);
+    border-color: rgba(99, 179, 237, 0.25);
+    transform: translateY(-2px);
+  }
+  .card-grid i {
+    font-size: 1.3rem;
+    opacity: 0.5;
+    width: 28px;
+    text-align: center;
+  }
+  .card-grid .label {
+    font-size: 0.82rem;
+    font-weight: 600;
+  }
+  .card-grid .desc {
+    font-size: 0.68rem;
+    opacity: 0.4;
+  }
+  .latest-yt {
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  .latest-yt h3 {
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    opacity: 0.35;
+    margin-bottom: 12px;
+    font-family: monospace;
+  }
+  .yt-card {
+    display: flex;
+    gap: 14px;
+    padding: 12px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.25s ease;
+  }
+  .yt-card:hover {
+    background: rgba(255, 255, 255, 0.06);
+    transform: translateY(-1px);
+  }
+  .yt-card img {
+    width: 160px;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+  .yt-card .meta {
+    font-size: 0.7rem;
+    opacity: 0.4;
+    margin-top: 4px;
+  }
+  .yt-card .title {
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  .pulse-dot {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #68d391;
+    animation: pulse 2s ease-in-out infinite;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  @keyframes pulse {
+    0%,
+    100% {
+      opacity: 0.4;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.4);
+    }
+  }
+</style>
+
+<div class="landing">
+  <h1>MBBFM</h1>
+  <div class="tagline">Made by Bruce from Malaysia</div>
+
+  <div class="intro">
+    科技宅的数字角落。<br />
+    3D 打印、DIY、游戏、偶尔写点什么。<br />
+    过去十多年的网络日志，都在这里了。
+  </div>
+
+  <div class="card-grid">
+    <a href="{{ '/blog/' | relative_url }}">
+      <i class="fas fa-pen-nib"></i>
+      <div>
+        <div class="label">博客</div>
+        <div class="desc">339 篇 · 2009 — 2026</div>
+      </div>
+    </a>
+    <a href="{{ '/youtube/' | relative_url }}">
+      <i class="fab fa-youtube"></i>
+      <div>
+        <div class="label">YouTube</div>
+        <div class="desc">3D 打印 · DIY · 开箱</div>
+      </div>
+    </a>
+    <a href="{{ '/archives/' | relative_url }}">
+      <i class="fas fa-stream"></i>
+      <div>
+        <div class="label">时间线</div>
+        <div class="desc">归档 + 视频时间轴</div>
+      </div>
+    </a>
+    <a href="{{ '/tags/' | relative_url }}">
+      <i class="fas fa-tags"></i>
+      <div>
+        <div class="label">标签</div>
+        <div class="desc">按主题浏览</div>
+      </div>
+    </a>
+  </div>
+
+  {% if site.data.youtube.size > 0 %}
+  <div class="latest-yt">
+    <h3><span class="pulse-dot"></span>latest from youtube</h3>
+    {% assign latest = site.data.youtube | first %}
+    <a
+      class="yt-card"
+      href="{{ latest.url }}"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="{{ latest.thumbnail }}"
+        alt="{{ latest.title }}"
+        loading="lazy"
+      />
+      <div>
+        <div class="title">{{ latest.title }}</div>
+        <div class="meta">{{ latest.date }} · {{ latest.views }} views</div>
+      </div>
+    </a>
+  </div>
+  {% endif %}
+</div>
