@@ -13,16 +13,16 @@ tags:
 <a href="http://baike.baidu.com/view/5730914.htm">“<span style="background-color: white; color: #333333; font-family: arial, 宋体, sans-serif; font-size: 14px; line-height: 24px; text-indent: 28px;">Raspberry Pi是一款针对电脑业余爱好者、教师、小学生以及小型企业等用户的迷你电脑，预装Linux系统，体积仅信用卡大小，搭载ARM架构处理器，运算性能和智能手机相仿。</span>”取自百度百科</a><br />
 <br />
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpescDDWkEDKo2Ev0RWgQ3v52dNV78rLDBc-sMhdsKvgb6cw1eFab8D5klpV1QWEOqKHcYMC9AfBI-BE8ml3ZMyShBXdQHyddQgYoXp4fEGBta3qkfLRvT2SdPf2PiN2c9tGKVwSjU2v8/s640/blogger-image-1810404114.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpescDDWkEDKo2Ev0RWgQ3v52dNV78rLDBc-sMhdsKvgb6cw1eFab8D5klpV1QWEOqKHcYMC9AfBI-BE8ml3ZMyShBXdQHyddQgYoXp4fEGBta3qkfLRvT2SdPf2PiN2c9tGKVwSjU2v8/s640/blogger-image-1810404114.jpg" /></a></div>
+<a href="/assets/img/blog/97a9491b2fe7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/97a9491b2fe7.jpg" /></a></div>
 <br />
 <a name='more'></a><br />
 <br />
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4RsGKexyJ-H5d3NqoFJVR5Cpx2lc603dlu_RLrcg3m4wpXuJoGFUcat74xgEXvvmJT7lzu8Lk85CXMiFKF82Of7ja-qeKK6tzftjvm6nnMv4bdhxGaq-YRn_SB6dTkaCSBfVb_txLoVA/s640/blogger-image-938295970.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4RsGKexyJ-H5d3NqoFJVR5Cpx2lc603dlu_RLrcg3m4wpXuJoGFUcat74xgEXvvmJT7lzu8Lk85CXMiFKF82Of7ja-qeKK6tzftjvm6nnMv4bdhxGaq-YRn_SB6dTkaCSBfVb_txLoVA/s640/blogger-image-938295970.jpg" /></a></div>
+<a href="/assets/img/blog/fd8c44d5c51f.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/fd8c44d5c51f.jpg" /></a></div>
 <div class="separator" style="clear: both;">
 </div>
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQyo8EFpDSqKijWiNKt5LkdRQ6nfXbpUR2P8dP_1QEJOymkj45K5UziIwgGvqp82aLKvBqncGYMEEiN4frv1VeNBqtTS8wLN493UIzeWLdu17RQrDgczHQWXuNwINT6_5Ph93f21cj1qc/s640/blogger-image-1817012978.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQyo8EFpDSqKijWiNKt5LkdRQ6nfXbpUR2P8dP_1QEJOymkj45K5UziIwgGvqp82aLKvBqncGYMEEiN4frv1VeNBqtTS8wLN493UIzeWLdu17RQrDgczHQWXuNwINT6_5Ph93f21cj1qc/s640/blogger-image-1817012978.jpg" /></a></div>
+<a href="/assets/img/blog/3e7c314dfc31.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/3e7c314dfc31.jpg" /></a></div>
 <br />
 <br />
 小白等级的内容：<br />
@@ -56,7 +56,7 @@ start&gt; shutdown 其实还是很简单的<br />
 从学校起就对电脑有兴趣的我 当年因为种种障碍无法解除<br />
 现在已经不同了 有能力自己探索<br />
 也分享给大家<br />
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJKBlGozBIySMWwD7mm-OEQSzfN5l3zDtqh2Hb40Y__bxcUGh0ovWMuSTONlyUlRrvWpbCRoUeq3wbunbaRC0xVai7Z2AqRAV4zN7qgloO7DHmjqxplnLkl0faUCltFCsMaBz7rAd08OI/s1600/Capture.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJKBlGozBIySMWwD7mm-OEQSzfN5l3zDtqh2Hb40Y__bxcUGh0ovWMuSTONlyUlRrvWpbCRoUeq3wbunbaRC0xVai7Z2AqRAV4zN7qgloO7DHmjqxplnLkl0faUCltFCsMaBz7rAd08OI/s1600/Capture.JPG" height="252" width="400" /></a><br />
+<a href="/assets/img/blog/27451400edb9.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/27451400edb9.jpg" height="252" width="400" /></a><br />
 <br />
 省略了看着教程链接 Pi的操作部分 我这就开始玩了起来，<br />
 不过看不懂上图的朋友别误会 &nbsp;我只是小白<br />
@@ -65,7 +65,7 @@ start&gt; shutdown 其实还是很简单的<br />
 <br />
 只有安装了这个我才能够通过&nbsp;<a href="http://zh.wikipedia.org/wiki/VNC">VNC</a> 进入图形操作 就是我们熟悉的Desktop.<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNaZEmr7cuD5Luq1PmzeuFLcDH3DFNL1GaJYbJ5fgihRvqu6q5Lv3iWI9XY_HefAZQzttDiOx8-KnIZd9xo1vnTh6bF2LvZC7WY3NyYqD-SfIFEOqsuWrLF4p2vi89KdHp-KeD_Xor7o/s1600/Capture.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidNaZEmr7cuD5Luq1PmzeuFLcDH3DFNL1GaJYbJ5fgihRvqu6q5Lv3iWI9XY_HefAZQzttDiOx8-KnIZd9xo1vnTh6bF2LvZC7WY3NyYqD-SfIFEOqsuWrLF4p2vi89KdHp-KeD_Xor7o/s1600/Capture.JPG" height="235" width="400" /></a></div>
+<a href="/assets/img/blog/cb337422d2bc.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/cb337422d2bc.jpg" height="235" width="400" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 真正要了解Raspberry Pi (树莓派)只能到处找教程了<br />
@@ -78,7 +78,7 @@ start&gt; shutdown 其实还是很简单的<br />
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJKBlGozBIySMWwD7mm-OEQSzfN5l3zDtqh2Hb40Y__bxcUGh0ovWMuSTONlyUlRrvWpbCRoUeq3wbunbaRC0xVai7Z2AqRAV4zN7qgloO7DHmjqxplnLkl0faUCltFCsMaBz7rAd08OI/s1600/Capture.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"><br /></a></div>
+<a href="/assets/img/blog/27451400edb9.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"><br /></a></div>
 其实就一根网线和供电 加个笔记本就ok了<br />
 没有笔记本的就直接用电视和usb滑鼠键盘吧<br />
 <br />

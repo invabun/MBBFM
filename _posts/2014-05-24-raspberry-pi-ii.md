@@ -20,7 +20,7 @@ tags:
 
 <span style="background-color: white; color: #444444; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size: 14px; font-weight: 700; line-height: 21px; word-wrap: break-word;">1. Q:如何让树莓派显示中文？</span><br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixKbermeMPRV69HFVSF0lRATiyd2z1byEB3kHemYF5uoeS1P_IbJ4dcEQ-YDVgBl5i2Sssl4WtkoDYLA7Mn1bxrwgR0DybISPAapAjQuXcWcj-U0MgDv2IS75SP33dSI2MixSKHwC2zjc/s1600/111.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixKbermeMPRV69HFVSF0lRATiyd2z1byEB3kHemYF5uoeS1P_IbJ4dcEQ-YDVgBl5i2Sssl4WtkoDYLA7Mn1bxrwgR0DybISPAapAjQuXcWcj-U0MgDv2IS75SP33dSI2MixSKHwC2zjc/s1600/111.JPG" height="490" width="640" /></a></div>
+<a href="/assets/img/blog/5ee351f765dd.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/5ee351f765dd.jpg" height="490" width="640" /></a></div>
 <ignore_js_op style="background-color: white; color: #444444; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size: 14px; line-height: 21px; text-align: -webkit-center; word-wrap: break-word;">&nbsp;</ignore_js_op><span style="background-color: white; color: #444444; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size: 14px; line-height: 21px; text-align: -webkit-center;">&nbsp;&nbsp;</span><br />
 <ignore_js_op style="background-color: white; color: #444444; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size: 14px; line-height: 21px; text-align: -webkit-center; word-wrap: break-word;"></ignore_js_op><br />
 <a name='more'></a><br />
@@ -67,7 +67,7 @@ tags:
 <div align="center" style="background-color: white; color: #444444; font-family: Tahoma, 'Microsoft Yahei', Simsun; line-height: 21px; word-wrap: break-word;">
 <div style="font-size: 14px;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxxqsCvbCPcO8Y3mMsI20Ac2sC1xVMA9dNdrXefV5Gd_AIOna7zbvDQi_Aiy6nI8R1uAFtWjBb-_TKqev0PTKlqCF2CjU-xeqDfXWSKOhEchP5_ekQzYMjbEhIVoPKW0kzypgmRJtQNM/s1600/111.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUxxqsCvbCPcO8Y3mMsI20Ac2sC1xVMA9dNdrXefV5Gd_AIOna7zbvDQi_Aiy6nI8R1uAFtWjBb-_TKqev0PTKlqCF2CjU-xeqDfXWSKOhEchP5_ekQzYMjbEhIVoPKW0kzypgmRJtQNM/s1600/111.JPG" height="490" width="640" /></a></div>
+<a href="/assets/img/blog/f7c74374628e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/f7c74374628e.jpg" height="490" width="640" /></a></div>
 <br /></div>
 <div style="font-size: 14px;">
 <ignore_js_op style="word-wrap: break-word;"><br /></ignore_js_op>
@@ -92,7 +92,7 @@ tags:
 <span style="color: #444444; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size: 14px; line-height: 21px;">完成之后，进入桌面 选择菜单-〉互联网-〉Chromium网页浏览器，就可以打开熟悉的chrome浏览器了</span></div>
 <div align="center" style="font-size: 14px; word-wrap: break-word;">
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeASIePnFAkI22prLHFK_E_35qf5gQjsZndQDa0-6mnrd9tqSOergdMUuLIi12-VUDd0h65qgN8NQQYVh1o1WrxRvjtlUpI760IU56AaLwvy91cdcUEoOlWVImXEwH_cN52vKkblw53S8/s1600/Capture.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeASIePnFAkI22prLHFK_E_35qf5gQjsZndQDa0-6mnrd9tqSOergdMUuLIi12-VUDd0h65qgN8NQQYVh1o1WrxRvjtlUpI760IU56AaLwvy91cdcUEoOlWVImXEwH_cN52vKkblw53S8/s1600/Capture.JPG" height="490" width="640" /></a></div>
+<a href="/assets/img/blog/f851105dbf54.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/f851105dbf54.jpg" height="490" width="640" /></a></div>
 <br /></div>
 <div style="color: black; font-family: 'Times New Roman'; font-size: medium; line-height: normal; text-align: start;">
 <br style="color: #444444; font-family: Tahoma, 'Microsoft Yahei', Simsun; font-size: 14px; line-height: 21px; word-wrap: break-word;" /></div>

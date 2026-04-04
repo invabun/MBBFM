@@ -55,13 +55,13 @@ tags:
 <div>
 <span style="font-family: inherit;"><br /></span></div>
 <div>
-<span style="font-family: inherit;">2 滑鼠右键点桌面右下角的这个<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43K7wNAZsUDRvy13A35cgxVT5R0GveMLULh2WW3t7qHcAq3XFZmBYRYP-Nkc5dCg-nBr6P_5X1bFBO4JmLmhz6l9vLVvBje9nQWvLqDCfvE7K-vYK5iL1mwh-A3KT4vxhDZlNVpC7r_c/s1600/1.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh43K7wNAZsUDRvy13A35cgxVT5R0GveMLULh2WW3t7qHcAq3XFZmBYRYP-Nkc5dCg-nBr6P_5X1bFBO4JmLmhz6l9vLVvBje9nQWvLqDCfvE7K-vYK5iL1mwh-A3KT4vxhDZlNVpC7r_c/s1600/1.JPG" /></a>标志 选择network &amp; sharing center</span></div>
+<span style="font-family: inherit;">2 滑鼠右键点桌面右下角的这个<a href="/assets/img/blog/ea4cc5dc71dd.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" src="/assets/img/blog/ea4cc5dc71dd.jpg" /></a>标志 选择network &amp; sharing center</span></div>
 <div>
 <div class="separator" style="clear: both; text-align: center;">
 <span style="font-family: inherit;"><br /></span></div>
 <span style="font-family: inherit;">3 进入以下页面 点Change adapter settings</span></div>
 <div>
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ9TvSkMptVDPAAyZD09V7NZ6-VPTUNw7VGfbo3uY6YXmUgMpTFzZJpzrNnoXXB3P7zJhDDiUh5P6ql3ZgA-h2aUhf2BGhUO5qQDqC1AcCmJLYoGAaUnv6IdIrKXRZR0bkHGhNjpPgM2g/s1600/2.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><span style="font-family: inherit;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ9TvSkMptVDPAAyZD09V7NZ6-VPTUNw7VGfbo3uY6YXmUgMpTFzZJpzrNnoXXB3P7zJhDDiUh5P6ql3ZgA-h2aUhf2BGhUO5qQDqC1AcCmJLYoGAaUnv6IdIrKXRZR0bkHGhNjpPgM2g/s1600/2.JPG" height="344" width="640" /></span></a></div>
+<a href="/assets/img/blog/f6aefa497d05.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><span style="font-family: inherit;"><img border="0" src="/assets/img/blog/f6aefa497d05.jpg" height="344" width="640" /></span></a></div>
 <div>
 <span style="font-family: inherit;"><br /></span></div>
 <div>
@@ -71,7 +71,7 @@ tags:
 <div class="separator" style="clear: both; text-align: center;">
 <span style="font-family: inherit;"><br /></span></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5XE-RowkguR9pcfQ0TDVuIMRECWipeAN9ar53dPJraUibDju9mTusWsXOGFWd2526v9e6loIrqhKryojHKVkPOktC0AvKAShHAu04ffsamkrgtYET7XY5QHgG6nPtUN4V0Z5zSI14ty0/s1600/3.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5XE-RowkguR9pcfQ0TDVuIMRECWipeAN9ar53dPJraUibDju9mTusWsXOGFWd2526v9e6loIrqhKryojHKVkPOktC0AvKAShHAu04ffsamkrgtYET7XY5QHgG6nPtUN4V0Z5zSI14ty0/s1600/3.JPG" height="162" width="640" /></span></a></div>
+<a href="/assets/img/blog/90888fb81dfe.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="/assets/img/blog/90888fb81dfe.jpg" height="162" width="640" /></span></a></div>
 <div>
 <span style="font-family: inherit;"><br /></span></div>
 <div>

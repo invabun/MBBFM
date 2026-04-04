@@ -20,8 +20,8 @@ date: 2016-08-04
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <br />
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimu1Lxv_RkjalpNkd_n0Ct7yqYqTnbuIFPk704f-gMiNk7WWrb8LyGdllHBJ6EmuhE0XgkJfwhJAj78IsZFrAEgxFewa_IcvXrPu7P931KGZ21arKxljvLIQUjjTY5Zbbpv24r05IqRCM/s1600/20160802_184403.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimu1Lxv_RkjalpNkd_n0Ct7yqYqTnbuIFPk704f-gMiNk7WWrb8LyGdllHBJ6EmuhE0XgkJfwhJAj78IsZFrAEgxFewa_IcvXrPu7P931KGZ21arKxljvLIQUjjTY5Zbbpv24r05IqRCM/s320/20160802_184403.jpg" width="320" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1TPgiddejKhVl8KqBhe21pzfjjvLPLSlaa4QRFplOaW3pwNaa7h8SZoLAYat3dxjTOafcf1AmENcqu_exqZCCR9uKJ8SxKyuHSPxCYmiuHdu9L1OMPRwh_urxv702D9jSLj2Su9IB9FQ/s1600/20160802_184323.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a><br />
-<a name='more'></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1TPgiddejKhVl8KqBhe21pzfjjvLPLSlaa4QRFplOaW3pwNaa7h8SZoLAYat3dxjTOafcf1AmENcqu_exqZCCR9uKJ8SxKyuHSPxCYmiuHdu9L1OMPRwh_urxv702D9jSLj2Su9IB9FQ/s1600/20160802_184323.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1TPgiddejKhVl8KqBhe21pzfjjvLPLSlaa4QRFplOaW3pwNaa7h8SZoLAYat3dxjTOafcf1AmENcqu_exqZCCR9uKJ8SxKyuHSPxCYmiuHdu9L1OMPRwh_urxv702D9jSLj2Su9IB9FQ/s320/20160802_184323.jpg" width="320" /></a><br />
+<a href="/assets/img/blog/5eebf73a7ecb.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/604e08dff8f8.jpg" width="320" /></a><a href="/assets/img/blog/452381d03abf.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"></a><br />
+<a name='more'></a><a href="/assets/img/blog/452381d03abf.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/09e06ae237e9.jpg" width="320" /></a><br />
 <br />
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
@@ -36,7 +36,7 @@ date: 2016-08-04
 当然价格也比较高咯。。。<br />
 下图取自<a href="http://ho.lazada.com.my/SHHMM0?url=http%3A%2F%2Fwww.lazada.com.my%2Fvertical-stand-laptop-wood-stand-for-macbook-brown-10681006.html%2F%3Foffer_id%3D%7Boffer_id%7D%26affiliate_id%3D%7Baffiliate_id%7D%26offer_name%3D%7Boffer_name%7D%26affiliate_name%3D%7Baffiliate_name%7D%26transaction_id%3D%7Btransaction_id%7D" target="_blank">LAzada</a> 有兴趣可以点图去购买<br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="http://goo.gl/Pk19FI" target="_blank"><img border="0" height="307" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiysP_7FDZ4W3xxBUDG9E76io87qIdCjQPqVeKCGHQNaNtePR5M0Q6hsNQG-sw1JsgZToeP8OFvbqTpdtnsTtDKh5OJVviDQQpWGuxv6FfvENCH7tA9DXdlf258EOFUHIou8AjVxAmygRo/s320/Capture1.JPG" width="320" /></a></div>
+<a href="http://goo.gl/Pk19FI" target="_blank"><img border="0" height="307" src="/assets/img/blog/468f753a5e4c.jpg" width="320" /></a></div>
 <div>
 <br /></div>
 <div>
@@ -44,5 +44,5 @@ date: 2016-08-04
 <div>
 <b><a href="http://www.thingiverse.com/search?q=macbook+pro&amp;sa=">http://www.thingiverse.com/search?q=macbook+pro&amp;sa=</a></b><br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ-dn4_P-0R5NFrAvqa05a9atOckS5XN9QYp8GQKqewohr3-RY2Ic4_NCMhHl7AhbyYm45QOCzaAGLtIZA4Og-hQS-oC-_ZA7XcOvjuNq9c1wFbAJVZywLPZZu-wJnQH4nCtvkntxuI7A/s1600/Capture1.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="193" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ-dn4_P-0R5NFrAvqa05a9atOckS5XN9QYp8GQKqewohr3-RY2Ic4_NCMhHl7AhbyYm45QOCzaAGLtIZA4Og-hQS-oC-_ZA7XcOvjuNq9c1wFbAJVZywLPZZu-wJnQH4nCtvkntxuI7A/s320/Capture1.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/5c93da77ad01.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="193" src="/assets/img/blog/8a4ce414bd58.jpg" width="320" /></a></div>
 <b><br /></b></div>

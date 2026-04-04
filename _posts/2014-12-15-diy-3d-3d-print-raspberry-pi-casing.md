@@ -32,22 +32,22 @@ tags:
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL8aqkyCY5of972qCBG22dHwFojT1UfsAmFwPmynZTaVJwmyqRVunhRnGo-XrwFXUxzbFUZuPR9z3JxBAI_z6Bn7Uc6N44zyN3YP9wJ6Gecea52Tb65_UxMQTIUkHvf8YX0lsWa_GMD50/s1600/24190_1040356296.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL8aqkyCY5of972qCBG22dHwFojT1UfsAmFwPmynZTaVJwmyqRVunhRnGo-XrwFXUxzbFUZuPR9z3JxBAI_z6Bn7Uc6N44zyN3YP9wJ6Gecea52Tb65_UxMQTIUkHvf8YX0lsWa_GMD50/s1600/24190_1040356296.jpg" height="480" width="640" /></a></div>
+<a href="/assets/img/blog/61efb68678ec.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/61efb68678ec.jpg" height="480" width="640" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcfrW4qaWVsNCzV08ZwpnkzdVly6U5Lm3Jb0JVQVGhG5Ylxc8S02Jf8GEffEshHP-ECP7Gz8SPpJRlKp8iCXPzoyw614biDpQczLk_EPoPnuaa3Rbt79aXVEusrPfZXdjl-QngzzEmQXw/s1600/5816_1040346578.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcfrW4qaWVsNCzV08ZwpnkzdVly6U5Lm3Jb0JVQVGhG5Ylxc8S02Jf8GEffEshHP-ECP7Gz8SPpJRlKp8iCXPzoyw614biDpQczLk_EPoPnuaa3Rbt79aXVEusrPfZXdjl-QngzzEmQXw/s1600/5816_1040346578.jpg" height="480" width="640" /></a></div>
+<a href="/assets/img/blog/c86c5dca5c33.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/c86c5dca5c33.jpg" height="480" width="640" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjIuuRRBSws_mFuzMU1WRM1NMveNTfznjklmrTL4AeyMieR2E4jXN_ARaxUaPtACt5nY6MV7C1X16sjA5H9y2kW2w2lgIa8vK1LIKWDDcPNe0pebsfDcF7rkuPl0LoCeFRu9QXx5DFgdw/s1600/9074_1040362218.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjIuuRRBSws_mFuzMU1WRM1NMveNTfznjklmrTL4AeyMieR2E4jXN_ARaxUaPtACt5nY6MV7C1X16sjA5H9y2kW2w2lgIa8vK1LIKWDDcPNe0pebsfDcF7rkuPl0LoCeFRu9QXx5DFgdw/s1600/9074_1040362218.jpg" height="480" width="640" /></a></div>
+<a href="/assets/img/blog/6471df425118.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/6471df425118.jpg" height="480" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiZ5TlP5GhtSYhd916T9X9SPiDwajX8-lrKZxXYy_x8mdGTv5lJsd1tS50ERFRU5W2gE7vIYXpQOxWiGOcLJIR2eXH76jrCI6HXrO3J90HIqGZL4vgvqdNgiWzWM7qWjBSeePZPPGEDX0/s1600/2740_1040367953.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiZ5TlP5GhtSYhd916T9X9SPiDwajX8-lrKZxXYy_x8mdGTv5lJsd1tS50ERFRU5W2gE7vIYXpQOxWiGOcLJIR2eXH76jrCI6HXrO3J90HIqGZL4vgvqdNgiWzWM7qWjBSeePZPPGEDX0/s1600/2740_1040367953.jpg" height="480" width="640" /></a></div>
+<a href="/assets/img/blog/800121eea315.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/800121eea315.jpg" height="480" width="640" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-&nbsp;安装好最后还是回到原来我收藏树莓派的盒子里=。= 大小刚刚好 哈哈哈<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXTk6kKeuyz6tSxEH0P-7jqPJcQ5vDcd9YPVFRJhTKKpVHqQLiiKpRHQcpO2ZKYX4vjq9RMFSk-WC9v0ebBYmCBEOwQdjMwZYd2loe9IWEjmD4dIdZfJ5wZAS1NVsI2LoD0odwpPBqMTM/s1600/20931_1040373437.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXTk6kKeuyz6tSxEH0P-7jqPJcQ5vDcd9YPVFRJhTKKpVHqQLiiKpRHQcpO2ZKYX4vjq9RMFSk-WC9v0ebBYmCBEOwQdjMwZYd2loe9IWEjmD4dIdZfJ5wZAS1NVsI2LoD0odwpPBqMTM/s1600/20931_1040373437.jpg" height="480" width="640" /></a></div>
+&nbsp;安装好最后还是回到原来我收藏树莓派的盒子里=。= 大小刚刚好 哈哈哈<a href="/assets/img/blog/30098dce749e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/30098dce749e.jpg" height="480" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc8sCHwUizekIaHkV4rbfPIAi8LABz_AGt6LLT8RI1_5rETGMN8ogcmwwwLTCjJthrZRaMH5EXnPbOtO3eUgiSDl907GlGS0hxKbjWK0gmXgFHqyz9wmFT-Fl0BnD4s05sgI818xFdB2c/s1600/26755_1040379546.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc8sCHwUizekIaHkV4rbfPIAi8LABz_AGt6LLT8RI1_5rETGMN8ogcmwwwLTCjJthrZRaMH5EXnPbOtO3eUgiSDl907GlGS0hxKbjWK0gmXgFHqyz9wmFT-Fl0BnD4s05sgI818xFdB2c/s1600/26755_1040379546.jpg" height="480" width="640" /></a></div>
+<a href="/assets/img/blog/9e5097e79b1b.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/9e5097e79b1b.jpg" height="480" width="640" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -59,7 +59,7 @@ tags:
 <br />
 <div style="background-color: white; color: #141823; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; line-height: 19.3199996948242px;">
 <div class="separator" style="clear: both; color: black; font-family: 'Times New Roman'; line-height: normal; text-align: center;">
-<a href="http://1m3dp.com/" target="_blank"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfAf64Fa2-vjZINqCoo4kCzROPBfQXK8Paw4iwcZcCYjzOPNAU4HKY3wJBBUIonFY7PqcgErTwtFWD_7xLzpK-OUHnAOMO9NhXhmIiQpeQ_Ns6tWbo7jOE4uqpm_IY0On-W5N3Rq061hw/s1600/Untitled.jpg" /></a></div>
+<a href="http://1m3dp.com/" target="_blank"><img border="0" src="/assets/img/blog/1d927e876ef2.jpg" /></a></div>
 <div class="separator" style="clear: both; color: black; font-family: 'Times New Roman'; line-height: normal; text-align: center;">
 <br /></div>
 </div>

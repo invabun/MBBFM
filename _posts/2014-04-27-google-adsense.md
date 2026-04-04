@@ -5,7 +5,7 @@ tags:
   - "网赚教学"
 ---
 
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0RoXoPY6-C7toB6EAL9IcpVtspddFeUTuquiqUWNPMlUQyjm62wj2yRAwp_mPMlMU7ipfaLNwhkYYSSDR_obf6kFeoDFWjtWdp2dm9nLH31659FW55rpxZJVejJf2V7-CoML0jCgVsXU/s1600/Capture.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0RoXoPY6-C7toB6EAL9IcpVtspddFeUTuquiqUWNPMlUQyjm62wj2yRAwp_mPMlMU7ipfaLNwhkYYSSDR_obf6kFeoDFWjtWdp2dm9nLH31659FW55rpxZJVejJf2V7-CoML0jCgVsXU/s1600/Capture.JPG" height="56" width="640" /></a><br />
+<a href="/assets/img/blog/4429d6b6aa10.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-right: 1em; text-align: center;"><img border="0" src="/assets/img/blog/4429d6b6aa10.jpg" height="56" width="640" /></a><br />
 <br />
 好久没上Adsense 查看报告了<br />
 今天一上心惊胆跳<br />

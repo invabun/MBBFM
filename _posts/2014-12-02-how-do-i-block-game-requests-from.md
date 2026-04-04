@@ -27,13 +27,13 @@ tags:
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPOOBqrXRArsZfnbCiMp3jwe_s8Bg4Ig6hkobzHTG2jVhaRFjyq_1fAW4ypa1EVB-VLUGtr67gK932c4rKfnxRGUW1IKLBVHG5KmDKRh6R7gzyKrBo-NZF7SYCKBqYeM8ljovpUAz-94Q/s1600/1.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPOOBqrXRArsZfnbCiMp3jwe_s8Bg4Ig6hkobzHTG2jVhaRFjyq_1fAW4ypa1EVB-VLUGtr67gK932c4rKfnxRGUW1IKLBVHG5KmDKRh6R7gzyKrBo-NZF7SYCKBqYeM8ljovpUAz-94Q/s1600/1.PNG" height="320" width="241" /></a></div>
+<a href="/assets/img/blog/6b4ca5253a1b.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/6b4ca5253a1b.png" height="320" width="241" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 &nbsp;2.用滑鼠指着，点那个叉叉。<br />
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHZAku4_aH45dEIaN10MlxiYp_kJxRUF3LOFur45J5bxVktyt6HieAWNEKWEC1FeP3lmfCwOxedYxytRLJmUYdgKioLo90hVVWSy5WmLpLB-3NmWCa4xfBEp3Rr-ma4XBRKGCkY1HVC90/s1600/Capture.PNG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHZAku4_aH45dEIaN10MlxiYp_kJxRUF3LOFur45J5bxVktyt6HieAWNEKWEC1FeP3lmfCwOxedYxytRLJmUYdgKioLo90hVVWSy5WmLpLB-3NmWCa4xfBEp3Rr-ma4XBRKGCkY1HVC90/s1600/Capture.PNG" height="202" width="320" /></a></div>
+<a href="/assets/img/blog/263b8673e90d.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/263b8673e90d.png" height="202" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 &nbsp;3.点 turn off 。再见 游戏敬请。<br />

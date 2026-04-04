@@ -52,6 +52,6 @@ tags:
 <div class="separator" style="clear: both; text-align: left;">
 这个风险是很大的，请三思</div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5YDiiFr_SRsIimplA4PbKwNezB4LG-MrDJcd0hDkfoHZhCM5G_Ub5GlpZMWZqxY6UgEC-asf921_GCdDW2p6OXXkduWVCgz6zClsbydK2G-RVb_vp2TbNPdUQ4LOUKSjP9yZUCmSJHiQ/s1600/Screen+Shot+2014-03-18+at+%E4%B8%8B%E5%8D%8811.41.35.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5YDiiFr_SRsIimplA4PbKwNezB4LG-MrDJcd0hDkfoHZhCM5G_Ub5GlpZMWZqxY6UgEC-asf921_GCdDW2p6OXXkduWVCgz6zClsbydK2G-RVb_vp2TbNPdUQ4LOUKSjP9yZUCmSJHiQ/s1600/Screen+Shot+2014-03-18+at+%E4%B8%8B%E5%8D%8811.41.35.png" height="430" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/5a593d12f3ca.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/assets/img/blog/5a593d12f3ca.png" height="430" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">此文由 Ahbundance.blogspot.com 仙人居分享 ~</td></tr>
 </tbody></table>

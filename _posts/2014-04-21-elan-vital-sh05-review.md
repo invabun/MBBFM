@@ -10,7 +10,7 @@ tags:
 <div class="separator" style="clear: both; text-align: left;">
 老早从中国淘了一个蓝牙耳机和一些手机壳回来。</div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-GBvIZoK0pNjTlHzsdSmb-xxJ0M2eAD2SAhL5GGAb09ZW9FT7DhH4Obl3GJnl5mos-NGZUf6M4n_0yuC-2Tt84q2k4V_eDY1HNDU0R-THJW3gLotTSPtP3H4Tg0uJtBhsL7BnBJUkP8/s1600/IMG_1773.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI-GBvIZoK0pNjTlHzsdSmb-xxJ0M2eAD2SAhL5GGAb09ZW9FT7DhH4Obl3GJnl5mos-NGZUf6M4n_0yuC-2Tt84q2k4V_eDY1HNDU0R-THJW3gLotTSPtP3H4Tg0uJtBhsL7BnBJUkP8/s1600/IMG_1773.JPG" height="240" width="320" /></a></div>
+<a href="/assets/img/blog/b4fc5a6f0dcf.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/b4fc5a6f0dcf.jpg" height="240" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 这次主要就要说说 号称 苹果耳机原装照搬 的蓝牙耳机</div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -47,13 +47,13 @@ tags:
 </div>
 <a name='more'></a><br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvJjw1DG7Xfh8IbScKUQYT-oIzd21OjAvDvQ8ktgv_QytZq-rWhpoFhaFBN-Zq0An0j9fxzaqF1t30vZ3EIf4w5WYAE2ZeBI56kP_2WtLqQvViNgK5Z5lM1qvnqHqQLgDfiNlg0Vvjjgk/s1600/IMG_1775.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvJjw1DG7Xfh8IbScKUQYT-oIzd21OjAvDvQ8ktgv_QytZq-rWhpoFhaFBN-Zq0An0j9fxzaqF1t30vZ3EIf4w5WYAE2ZeBI56kP_2WtLqQvViNgK5Z5lM1qvnqHqQLgDfiNlg0Vvjjgk/s1600/IMG_1775.JPG" height="320" width="240" /></a></div>
+<a href="/assets/img/blog/32397285edad.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/32397285edad.jpg" height="320" width="240" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY9RD8-WYimYY2QswwsAIjlDPlJCQW83qKZNYcg5CCTklda31zJ9Qr45AAdQA3jbf6q5kvpiIRUIlVNTV4ttRxjHSbDAQVHUdHyIL3LtxcUrJiEt3x9R04UribCnB6-M8MJqsze88JmRU/s1600/IMG_1776.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY9RD8-WYimYY2QswwsAIjlDPlJCQW83qKZNYcg5CCTklda31zJ9Qr45AAdQA3jbf6q5kvpiIRUIlVNTV4ttRxjHSbDAQVHUdHyIL3LtxcUrJiEt3x9R04UribCnB6-M8MJqsze88JmRU/s1600/IMG_1776.JPG" height="320" width="320" /></a></div>
+<a href="/assets/img/blog/a406770de9a5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/a406770de9a5.jpg" height="320" width="320" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCnkJsbgjr5WoH8c4RnnslkswLwVtdj9SDecICAbOFyaScnimYPVvdlpB3yRXeoKhhz28TN8lv2OCSU412WAds5tIhYlMhedL03c0gGCg2HrSpTcC1mKrlgwzt6f2M9Oy_LxWbeaBPjs/s1600/IMG_1777.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCnkJsbgjr5WoH8c4RnnslkswLwVtdj9SDecICAbOFyaScnimYPVvdlpB3yRXeoKhhz28TN8lv2OCSU412WAds5tIhYlMhedL03c0gGCg2HrSpTcC1mKrlgwzt6f2M9Oy_LxWbeaBPjs/s1600/IMG_1777.JPG" height="320" width="320" /></a></div>
+<a href="/assets/img/blog/d79d0399c84c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/d79d0399c84c.jpg" height="320" width="320" /></a></div>
 <br />
 <b>外貌协会</b><br />
 从图上看来 &nbsp;的却是苹果耳机倒模的<br />

@@ -63,7 +63,7 @@ STEP 1：3D打印 3D Print</div>
 <div class="separator" style="clear: both; text-align: left;">
 且花了幾天來打印不同的part。</div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxaqNn2mdNal75ayepo_dL_i1a6898_Etw6jxqN32TIDy5HmmclVw_L_NZGOmLgKGYxlKx-5tgOmHgsAwVXDzemmYbl4nOMxMyFas2CGbBXmZgzBnN5jF92hOvayC_sL8NU9j7umZ9Ds/s1600/IMG_0259.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxaqNn2mdNal75ayepo_dL_i1a6898_Etw6jxqN32TIDy5HmmclVw_L_NZGOmLgKGYxlKx-5tgOmHgsAwVXDzemmYbl4nOMxMyFas2CGbBXmZgzBnN5jF92hOvayC_sL8NU9j7umZ9Ds/s320/IMG_0259.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/2f7e4d915103.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/20ac234eac8b.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 </div>
 <a name='more'></a><br />
@@ -77,7 +77,7 @@ STEP 1：3D打印 3D Print</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD_hoqaada3DIZcnXohN2_RO0xH1tA4hVBhgfQYuEY-BOaBgftv6xs16MHVMLSy4P4PMxLW1GkUfYoq8Dw-zeu8Wv3tZ-0-eH5xSpAavAbGNgaVyEBJKqe3-RqlqGxtlMLZ4VMQ_omU5U/s1600/IMG_0352.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD_hoqaada3DIZcnXohN2_RO0xH1tA4hVBhgfQYuEY-BOaBgftv6xs16MHVMLSy4P4PMxLW1GkUfYoq8Dw-zeu8Wv3tZ-0-eH5xSpAavAbGNgaVyEBJKqe3-RqlqGxtlMLZ4VMQ_omU5U/s320/IMG_0352.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/575b7dc0d748.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/44f09b21a352.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -87,7 +87,7 @@ STEP 1：3D打印 3D Print</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf9kZWsiwCole0W-KMU4NvTOxC00uyHPfBCqVQ6e8iHr_sXcvqYnrahnNHHTBvQoP-nrmaZRsSfeJvLaDc8O14n212inxEhkxqTaSXuRZ1PsIIBIiSIwFbdJ-77K-nbU2u8z2RQdBVcxs/s1600/IMG_0298.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf9kZWsiwCole0W-KMU4NvTOxC00uyHPfBCqVQ6e8iHr_sXcvqYnrahnNHHTBvQoP-nrmaZRsSfeJvLaDc8O14n212inxEhkxqTaSXuRZ1PsIIBIiSIwFbdJ-77K-nbU2u8z2RQdBVcxs/s320/IMG_0298.JPG" width="320" /></a>.</div>
+<a href="/assets/img/blog/6a1fa2172b75.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/d1b2a2234b23.jpg" width="320" /></a>.</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -95,7 +95,7 @@ STEP 1：3D打印 3D Print</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDrZY8yfzq5CR1ybQHw0AtRcg3Sv2EHZKbNh1WFIlQ59AmbFxfZwGJYqZ5nXao38cb41m0xxAtetlIYoOqY6SGlt2csHZQfUCzD2Prm6AlQoWDtNtMcS9YdLCevSM6SOXSijVT5ap3Zs/s1600/IMG_0280.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDrZY8yfzq5CR1ybQHw0AtRcg3Sv2EHZKbNh1WFIlQ59AmbFxfZwGJYqZ5nXao38cb41m0xxAtetlIYoOqY6SGlt2csHZQfUCzD2Prm6AlQoWDtNtMcS9YdLCevSM6SOXSijVT5ap3Zs/s640/IMG_0280.JPG" width="360" /></a></div>
+<a href="/assets/img/blog/409da2719c8a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="/assets/img/blog/e3c897f06b64.jpg" width="360" /></a></div>
 <br />
 <div class="separator" style="clear: both;">
 下面是Timelapse video.</div>
@@ -140,23 +140,23 @@ STEP 1：上色 Post Processing</div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4yuY2TP9fqphVC7xsICNYWDRFAZ7txd8ClMyS7xmTP75tzE-VhOFJc7ksQx0lhQkLWTEplDq8cLeMpbHPr-Gup_3-HQy_zEfy_hc8bIMpLloaLyJCNUAqC5ZasEYYyqdSVbEnQt54088/s1600/IMG_0300.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4yuY2TP9fqphVC7xsICNYWDRFAZ7txd8ClMyS7xmTP75tzE-VhOFJc7ksQx0lhQkLWTEplDq8cLeMpbHPr-Gup_3-HQy_zEfy_hc8bIMpLloaLyJCNUAqC5ZasEYYyqdSVbEnQt54088/s320/IMG_0300.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/42068739f8e0.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/d9ad9b52a09e.jpg" width="320" /></a></div>
 <br />
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaDIeDcLcnyYHy2-CG_QUHlXoHFsaFUbOwCAy6IxgUIVrf09bb_cfl6YmA-eQPPQVOBGFNP45IDn4pJBs7zJm6CtjA1DyB2Exq1dsEu9z4HxDGpi2A5byNePUkqJXQzQgkjXv2kuFY6I/s1600/IMG_0307.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaDIeDcLcnyYHy2-CG_QUHlXoHFsaFUbOwCAy6IxgUIVrf09bb_cfl6YmA-eQPPQVOBGFNP45IDn4pJBs7zJm6CtjA1DyB2Exq1dsEu9z4HxDGpi2A5byNePUkqJXQzQgkjXv2kuFY6I/s320/IMG_0307.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/5e6609b258fb.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/bf34009c33de.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both;">
 <br /></div>
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-yGK2gEDoQoB_xpFOfiFmigk5Mqh3B6uN82u5JOkcaAWw9zsUr8UzkcNYLPyZVdtBcblJc8dlHuY9fP3KFkuYZrPadmzYAy0aqYAaMhedrW6xGETuluNv8hgBf3m2ou7gpGS5haQt14/s1600/IMG_0309.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-yGK2gEDoQoB_xpFOfiFmigk5Mqh3B6uN82u5JOkcaAWw9zsUr8UzkcNYLPyZVdtBcblJc8dlHuY9fP3KFkuYZrPadmzYAy0aqYAaMhedrW6xGETuluNv8hgBf3m2ou7gpGS5haQt14/s320/IMG_0309.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/cccc5e930e5a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/6d86de52cbc7.jpg" width="320" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg797YuJLg8Kc0ThRVCULzCvCRi-1LGVzQCeUGV2llvX9XDJUf0LHnIJTCAJK_Tw9lI-cZSTQlD8XMHwNXjbfMroqHI8wAjvfPqRlUKOH9GC1gNMeDrxi4VDYDJNE_UnvaSJGyAGZwHy1Q/s1600/IMG_0310.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg797YuJLg8Kc0ThRVCULzCvCRi-1LGVzQCeUGV2llvX9XDJUf0LHnIJTCAJK_Tw9lI-cZSTQlD8XMHwNXjbfMroqHI8wAjvfPqRlUKOH9GC1gNMeDrxi4VDYDJNE_UnvaSJGyAGZwHy1Q/s320/IMG_0310.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/eda28e1c62f8.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/6dfeeca0d5ad.jpg" width="320" /></a></div>
 <br />
 這個頂的部分有點不整齊，<br />
 暫時只能這樣，如果認真處理 還得加石膏或者底漆類似鋪平的東西吧。<br />
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlGWXv73_1aoRPE7cBqAhj1_bmr0FObpt-y3hYIVTCwwa-p0yhYvKl_7PzfODJW0V_LRdLzLeY5P2CiDRqjMsA1tF9lcapM9L5QQPCr57bIUbEt_putowRiaW02W8zmOxue1qRvp3Tco/s1600/IMG_0320.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlGWXv73_1aoRPE7cBqAhj1_bmr0FObpt-y3hYIVTCwwa-p0yhYvKl_7PzfODJW0V_LRdLzLeY5P2CiDRqjMsA1tF9lcapM9L5QQPCr57bIUbEt_putowRiaW02W8zmOxue1qRvp3Tco/s320/IMG_0320.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/31a41b5fabb8.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/8d96de5b63e5.jpg" width="320" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: left;">
 <b>STEP&nbsp;3: 組裝 Assemble&nbsp;</b></div>
@@ -175,7 +175,7 @@ STEP 1：上色 Post Processing</div>
 <div class="separator" style="clear: both; text-align: left;">
 不然就會出現我我這個斷開的問題。</div>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf9kZWsiwCole0W-KMU4NvTOxC00uyHPfBCqVQ6e8iHr_sXcvqYnrahnNHHTBvQoP-nrmaZRsSfeJvLaDc8O14n212inxEhkxqTaSXuRZ1PsIIBIiSIwFbdJ-77K-nbU2u8z2RQdBVcxs/s1600/IMG_0298.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf9kZWsiwCole0W-KMU4NvTOxC00uyHPfBCqVQ6e8iHr_sXcvqYnrahnNHHTBvQoP-nrmaZRsSfeJvLaDc8O14n212inxEhkxqTaSXuRZ1PsIIBIiSIwFbdJ-77K-nbU2u8z2RQdBVcxs/s320/IMG_0298.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/6a1fa2172b75.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/d1b2a2234b23.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: left;">
@@ -194,12 +194,12 @@ STEP 1：上色 Post Processing</div>
 不好意思 原力還沒裝上。所以此乃擺設品 並非把玩物。<br />
 cosplay 掛著身體還行，拿來打的話 會斷的啦T_T<br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyCT9efX11RiwowYeV2xCb_AZ8eUNqa5SjgO7YLhcqyjRH9uRzCzixtvIHD1yeP8De2WdleQWssj4jRZERCJu2MIgFC3Es7Yimzw_SelH2fOvEfvv3qU0GOlCHKEW7vgml2Ns14t7L1vE/s1600/F2712C49-380B-40E5-8066-D28D3FBE34D6.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyCT9efX11RiwowYeV2xCb_AZ8eUNqa5SjgO7YLhcqyjRH9uRzCzixtvIHD1yeP8De2WdleQWssj4jRZERCJu2MIgFC3Es7Yimzw_SelH2fOvEfvv3qU0GOlCHKEW7vgml2Ns14t7L1vE/s320/F2712C49-380B-40E5-8066-D28D3FBE34D6.jpg" width="320" /></a></div>
+<a href="/assets/img/blog/00af08b97ed5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/599f5a2f4e8f.jpg" width="320" /></a></div>
 <br />
 <br />
 不折不扣的 攻擊力1 耐久度1 &nbsp;科科!<br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhvXo_ooKt_pLqqR-LVwLmD1sG6TFWcTSpnmKr2jb3AqbvrulgGKJ4x7fPyC5L_4zQsQZhuU9_7jQmJntkK8cpLoMuYoFVvkr8JTD2v8TqS57xQ3-768C6TjDgIPthLd6OFtgXi5BoBM/s1600/Image.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhvXo_ooKt_pLqqR-LVwLmD1sG6TFWcTSpnmKr2jb3AqbvrulgGKJ4x7fPyC5L_4zQsQZhuU9_7jQmJntkK8cpLoMuYoFVvkr8JTD2v8TqS57xQ3-768C6TjDgIPthLd6OFtgXi5BoBM/s320/Image.png" width="320" /></a></div>
+<a href="/assets/img/blog/6d4189e49ecf.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/9e44a738c206.png" width="320" /></a></div>
 <br />
 <b>STEP 5 ：光和音效　Light &amp; Sound</b><br />
 這個由於零件還沒有budget 去買 先留著~ 以後有了再更新。<br />

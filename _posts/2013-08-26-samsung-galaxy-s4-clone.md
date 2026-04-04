@@ -33,7 +33,7 @@ DO YOU REALLY BELIEVE THIS SHIT？<br />
 <br />
 图片：<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghIbkJA8VJLhxuu0H5dZD90TbnxagUpglv0bdl0WrGLkNcWEqG2nIZYbMsmuWFhq7NGDU3lhHQbThNJTvaS1zDl11dq9n-wEqk4vqdiJSFxJWFGyuMLWI6lKlW2b_88YkNWkr1ncxnBbA/s1600/DSC_0028.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghIbkJA8VJLhxuu0H5dZD90TbnxagUpglv0bdl0WrGLkNcWEqG2nIZYbMsmuWFhq7NGDU3lhHQbThNJTvaS1zDl11dq9n-wEqk4vqdiJSFxJWFGyuMLWI6lKlW2b_88YkNWkr1ncxnBbA/s320/DSC_0028.JPG" width="240" /></a></div>
+<a href="/assets/img/blog/00d12d55f26f.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="/assets/img/blog/a42f7caaa19a.jpg" width="240" /></a></div>
 <br />
 <b>好奇2：高清OLED屏幕到底有多高清？</b><br />
 这一点我倒承认 的却很清晰 确实是OLED，其实OLED成本比旧款LED便宜<br />

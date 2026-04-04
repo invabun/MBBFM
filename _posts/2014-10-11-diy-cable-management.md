@@ -15,7 +15,7 @@ tags:
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyyY9YmkgtssycZe0LbA_bL5wWklt4SAn6Zkg77w8Bp0HTDqGjF9S8bfuahiy-4V70u3mAjPP3FwjB2gMq2GGAypCuru53qQEGC5grgGx8xyycENmiW6YbNNFfe3js0cz66ye6hOc0fRI/s640/blogger-image--1808748392.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyyY9YmkgtssycZe0LbA_bL5wWklt4SAn6Zkg77w8Bp0HTDqGjF9S8bfuahiy-4V70u3mAjPP3FwjB2gMq2GGAypCuru53qQEGC5grgGx8xyycENmiW6YbNNFfe3js0cz66ye6hOc0fRI/s400/blogger-image--1808748392.jpg" width="400" /></a></div>
+<a href="/assets/img/blog/27dfc8d56402.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="300" src="/assets/img/blog/e873f66e5567.jpg" width="400" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 正好今天DIY商店开张<br />
@@ -28,7 +28,7 @@ tags:
 噔噔噔噔♪<br />
 <br />
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT8hfCLywJT6Zl1ghUbenHirMXKtA2Y7ylV1dBk2bM9MIsfQkZqUhdKSjz0W1UoucVR3j_Q8rdgjNu__RYc_j-XXZ8IaUbYTEOgewCFiggwscP2MNdnem1oN9bXfkHe-waZZUeVhE4mYw/s640/blogger-image--2109912425.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT8hfCLywJT6Zl1ghUbenHirMXKtA2Y7ylV1dBk2bM9MIsfQkZqUhdKSjz0W1UoucVR3j_Q8rdgjNu__RYc_j-XXZ8IaUbYTEOgewCFiggwscP2MNdnem1oN9bXfkHe-waZZUeVhE4mYw/s400/blogger-image--2109912425.jpg" width="400" /></a></div>
+<a href="/assets/img/blog/dba2d0849609.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="/assets/img/blog/55217da08c89.jpg" width="400" /></a></div>
 <div class="separator" style="clear: both;">
 其实应该来个before after =。= 烦躁到忘记了</div>
 <div class="separator" style="clear: both;">
@@ -38,7 +38,7 @@ tags:
 <div class="separator" style="clear: both;">
 </div>
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilKS3FPXSQTTGlMq5UfOTzxI3STg0ufBm6K3981GRjWAXdCbwZrZt_RMM-24QWxHwKyfEFx1_imajPvHmIuTUpOB92uMUDvsINW3iobD246T_Qxp4Js0wwJ8_7_C8etKYbj7GAB2-uW9U/s640/blogger-image--1935496209.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilKS3FPXSQTTGlMq5UfOTzxI3STg0ufBm6K3981GRjWAXdCbwZrZt_RMM-24QWxHwKyfEFx1_imajPvHmIuTUpOB92uMUDvsINW3iobD246T_Qxp4Js0wwJ8_7_C8etKYbj7GAB2-uW9U/s320/blogger-image--1935496209.jpg" width="320" /></a></div>
+<a href="/assets/img/blog/2783faacbfe5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/4c40f79a0790.jpg" width="320" /></a></div>
 <br />
 <br />
 喇叭电源 左右接口 和电脑接口 共3条<br />

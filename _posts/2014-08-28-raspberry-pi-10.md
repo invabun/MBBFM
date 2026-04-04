@@ -76,12 +76,12 @@ gameboy 红白机类的游戏<br />
 木盒~！<br />
 <div>
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJsMyKN1tiLq9l0GrH4yE8ypn_SBefhOY58N3Fx5vt1W_1AVhRCHvzkTi0UjNaPqukDRvOQIjqZBGXYPOhXVRyWjT2y96Iy7pBDKZfzBW1mBmEckc0p8vbyj56fGiOrAnYHLPxYcxRSsU/s640/blogger-image-526384784.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJsMyKN1tiLq9l0GrH4yE8ypn_SBefhOY58N3Fx5vt1W_1AVhRCHvzkTi0UjNaPqukDRvOQIjqZBGXYPOhXVRyWjT2y96Iy7pBDKZfzBW1mBmEckc0p8vbyj56fGiOrAnYHLPxYcxRSsU/s640/blogger-image-526384784.jpg" /></a></div>
+<a href="/assets/img/blog/cd84482f7de2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/cd84482f7de2.jpg" /></a></div>
 <br /></div>
 <div>
 <div class="separator" style="clear: both;">
 </div>
 <div class="separator" style="clear: both;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH3OzD7l7TJtxw9j-qSCdgYwXNtJ1uTZB9I5VAD3kdiQSIRERN_G2Xy07YkY36eeClXww1gWSH7UHEt77Geegfi3xfyEeB3hkprw4DCLxrtB76DmLrBBd7aNf9lD66XwdFLnDA7mGPZXo/s640/blogger-image--1023972394.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH3OzD7l7TJtxw9j-qSCdgYwXNtJ1uTZB9I5VAD3kdiQSIRERN_G2Xy07YkY36eeClXww1gWSH7UHEt77Geegfi3xfyEeB3hkprw4DCLxrtB76DmLrBBd7aNf9lD66XwdFLnDA7mGPZXo/s640/blogger-image--1023972394.jpg" /></a></div>
+<a href="/assets/img/blog/3258e29af2fb.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/assets/img/blog/3258e29af2fb.jpg" /></a></div>
 <br />
 <br /></div>

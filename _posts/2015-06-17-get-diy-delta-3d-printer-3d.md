@@ -24,7 +24,7 @@ tags:
 <br />
 （电控：Arduino MEGA 2560 +&nbsp;REPRAP 1.4A + LCD MicroController 2004A）<br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsgAFD282y3OgGh6cgO2kazo4hdsUKV09PGwZ6E917iAUe6GpS6wxycUn1320I1gnGWGi0UP4ksIVr4vFCvfmZ7C_WLgSsUbKOcoe5b3F5cVzLeoltC4xCut3fK3zu0s0gjfRRQIoqrc/s1600/IMG_6473.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZsgAFD282y3OgGh6cgO2kazo4hdsUKV09PGwZ6E917iAUe6GpS6wxycUn1320I1gnGWGi0UP4ksIVr4vFCvfmZ7C_WLgSsUbKOcoe5b3F5cVzLeoltC4xCut3fK3zu0s0gjfRRQIoqrc/s1600/IMG_6473.JPG" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/2463d999eb9f.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/2463d999eb9f.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">之前随便打印的壳</td></tr>
 </tbody></table>
 <br />
@@ -38,7 +38,7 @@ tags:
 <br />
 这次邮购来的主要是硬件和电机部分，<br />
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikAEXZxNeC5Z_e03YfOpwB4C9qq_1M4iva8CfinrK-ZSLWjj5Mg9DQcDhw95y-xsdPykcoD89Vgwd1OTtVHaNptU64mR1qTYC9d57XeOAQGkJdFmSG7C8vfAm5TdQoFR-zfbni1ToWXwY/s1600/IMG_6464.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikAEXZxNeC5Z_e03YfOpwB4C9qq_1M4iva8CfinrK-ZSLWjj5Mg9DQcDhw95y-xsdPykcoD89Vgwd1OTtVHaNptU64mR1qTYC9d57XeOAQGkJdFmSG7C8vfAm5TdQoFR-zfbni1ToWXwY/s1600/IMG_6464.JPG" width="240" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/cba2b9392c0d.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img border="0" height="320" src="/assets/img/blog/cba2b9392c0d.jpg" width="240" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;"><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em;"><tbody>
 <tr><td class="tr-caption" style="font-size: 12.8000001907349px; text-align: center;"><div style="font-size: medium; text-align: start;">
 里面各种小箱子 大小零件，包装还算ok。</div>
@@ -58,107 +58,107 @@ tags:
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5ke9_7TaxxnISHIb9QLNcelXjUNv4ixk5kS9y3AbZGVmbO0YemwvrLdnE-D4V7Y5_yprnN4YNj3r9fAlGlTf3xjn4RkeCzrzrlVoqTVSO9NiF9e3V8VFsXgLHcVxItrAbgazRhEjLctU/s1600/IMG_6465.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5ke9_7TaxxnISHIb9QLNcelXjUNv4ixk5kS9y3AbZGVmbO0YemwvrLdnE-D4V7Y5_yprnN4YNj3r9fAlGlTf3xjn4RkeCzrzrlVoqTVSO9NiF9e3V8VFsXgLHcVxItrAbgazRhEjLctU/s1600/IMG_6465.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/ed64893d8c9c.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/ed64893d8c9c.jpg" width="320" /></a></div>
 <br />
 淘开所有箱子 主要架构内容都在最底部。<br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizH9GBihK9XGxtai9yajai12hxTVZYF7piUnsIYDpe1zwZaatzO_esrUVw0fBhRJD6D9nPA_nf-B_XwmHolJTSU1BUzFCSvZi5_lZ6LVCQNGE6eFduJ5vKZYUcyftzysNBOtg7bQ_HArA/s1600/IMG_6474.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizH9GBihK9XGxtai9yajai12hxTVZYF7piUnsIYDpe1zwZaatzO_esrUVw0fBhRJD6D9nPA_nf-B_XwmHolJTSU1BUzFCSvZi5_lZ6LVCQNGE6eFduJ5vKZYUcyftzysNBOtg7bQ_HArA/s1600/IMG_6474.JPG" width="320" /></a></div>
+<a href="/assets/img/blog/d6c3f482da0f.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/d6c3f482da0f.jpg" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 <br /></div>
 <b>其他小箱子</b>装的是各种打印件。打印件部分我就不多说明了 看我在照片注释吧。<br />
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4gdMkAT-q9dHDV7Nny7MGKqRJrvcF8zbt-oTFBmhtQe1THwdtPtwk2x7_N2MSFrQ8YeoEYIuDUhJZ0ckKc9bb1UWSrKsNDjCC79uQCErWgft9R2spsLBbUZBPYRoFG7nkeoWjM37ZFHI/s1600/IMG_6475.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4gdMkAT-q9dHDV7Nny7MGKqRJrvcF8zbt-oTFBmhtQe1THwdtPtwk2x7_N2MSFrQ8YeoEYIuDUhJZ0ckKc9bb1UWSrKsNDjCC79uQCErWgft9R2spsLBbUZBPYRoFG7nkeoWjM37ZFHI/s320/IMG_6475.JPG" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/bf41d404c079.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="/assets/img/blog/c1763447e9f1.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">下角件</td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_x7hAClARynWDEs9GGBBD2fg2YVyQYRboZw7I2riVID8PJa5hGDGjE-DE0TGit6CcU2RNMrduMVIHAl2lSx4Dv-EUyj3OM1knSaSPNe7keRyBFBSjzLwQzuQnBIyvN6mhdx-hlyPmRk/s1600/IMG_6476.JPG" imageanchor="1" style="clear: left; display: inline !important; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_x7hAClARynWDEs9GGBBD2fg2YVyQYRboZw7I2riVID8PJa5hGDGjE-DE0TGit6CcU2RNMrduMVIHAl2lSx4Dv-EUyj3OM1knSaSPNe7keRyBFBSjzLwQzuQnBIyvN6mhdx-hlyPmRk/s320/IMG_6476.JPG" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/34bd8b249877.jpg" imageanchor="1" style="clear: left; display: inline !important; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/60d5b6eacca2.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">上角件</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: left;">
 </div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3g5dAPTlQbpIIo8HOtiMX0SKTOsrEaZQXs_KtZUsa8em_Pmoa5ktow0QFsqWAQwFLkO1fOaxCt5ymoYnQPb-Yg4qM94BetBucZUGnAGUq5Sq7wQSAZGs79Cnt4HwehbcjODVpMmWG500/s1600/IMG_6479.JPG" imageanchor="1" style="clear: left; display: inline !important; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3g5dAPTlQbpIIo8HOtiMX0SKTOsrEaZQXs_KtZUsa8em_Pmoa5ktow0QFsqWAQwFLkO1fOaxCt5ymoYnQPb-Yg4qM94BetBucZUGnAGUq5Sq7wQSAZGs79Cnt4HwehbcjODVpMmWG500/s320/IMG_6479.JPG" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/ba54dda8f9d0.jpg" imageanchor="1" style="clear: left; display: inline !important; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="/assets/img/blog/2458ba6fc163.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">挤出机用的</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwWnQolcULGNMGvnRXD1GcftX45Ld5txdEO1-gxyYZnTVFnxIvaPlw8VypvXG3DBU89mewbHvZDvCvgFUz6bGp0atpFyijbBf3j-nwbKG1KBA3sHiHc3TOvOQyHo1l0dF90-Ox83Az9og/s1600/IMG_6477.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwWnQolcULGNMGvnRXD1GcftX45Ld5txdEO1-gxyYZnTVFnxIvaPlw8VypvXG3DBU89mewbHvZDvCvgFUz6bGp0atpFyijbBf3j-nwbKG1KBA3sHiHc3TOvOQyHo1l0dF90-Ox83Az9og/s320/IMG_6477.JPG" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/bcc9bd50d507.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: left;"><img border="0" height="240" src="/assets/img/blog/ccb870d543fc.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">一体滑车 我个人还是比较喜欢分开的。</td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd50neFZnTm3pSHJpQheHGN4ajxgqbov3CxJ69pR6BjJHGq9KhDM7PbtZOopgZ-5JypeNhuaQ3x8i3k1D1Pl9WwpmsYu4pb-X59_4BNSA5rBs_nRngufV_dlph418xIoRwh8DkE2dFYWY/s1600/IMG_6478.JPG" imageanchor="1" style="clear: left; display: inline !important; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd50neFZnTm3pSHJpQheHGN4ajxgqbov3CxJ69pR6BjJHGq9KhDM7PbtZOopgZ-5JypeNhuaQ3x8i3k1D1Pl9WwpmsYu4pb-X59_4BNSA5rBs_nRngufV_dlph418xIoRwh8DkE2dFYWY/s320/IMG_6478.JPG" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/0b7dc6fdb4d7.jpg" imageanchor="1" style="clear: left; display: inline !important; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/b3f5c76f506a.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">挤出头以及校音器（简易自动调平硬件）</td></tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMdp3JfhldTywhAonKUVszzmH6kC2LOmq9PIgRTjRtkG4Wtc3aGsJKO6_kTORes7CRNR0Itd0F41eX330L1sJ8Q6h4tdcdl9-9u-vHibHsAm_fEZFJvUda4y1SxWWIiO9d8XLDaFyL7hU/s1600/IMG_6481.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMdp3JfhldTywhAonKUVszzmH6kC2LOmq9PIgRTjRtkG4Wtc3aGsJKO6_kTORes7CRNR0Itd0F41eX330L1sJ8Q6h4tdcdl9-9u-vHibHsAm_fEZFJvUda4y1SxWWIiO9d8XLDaFyL7hU/s320/IMG_6481.JPG" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/73cccd20e35c.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="/assets/img/blog/df843a2c0c2a.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">LCD 夹块</td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrfQn9iG6Ova5e4CVlGI0zqVH1bzvlzjTWO36HNIUBkUTDyzaFDvWoPSuPXlDR7Y6Oa3zRhlv7z7mZ6LzcdhtRy7kF9wNrBU75F6ew6-FH5X8bM2y55EaCZIiJseH78O58D2u7i39ks8/s1600/IMG_6480.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrfQn9iG6Ova5e4CVlGI0zqVH1bzvlzjTWO36HNIUBkUTDyzaFDvWoPSuPXlDR7Y6Oa3zRhlv7z7mZ6LzcdhtRy7kF9wNrBU75F6ew6-FH5X8bM2y55EaCZIiJseH78O58D2u7i39ks8/s1600/IMG_6480.JPG" width="200" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/580426129878.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="150" src="/assets/img/blog/580426129878.jpg" width="200" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">限位件，</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3g5dAPTlQbpIIo8HOtiMX0SKTOsrEaZQXs_KtZUsa8em_Pmoa5ktow0QFsqWAQwFLkO1fOaxCt5ymoYnQPb-Yg4qM94BetBucZUGnAGUq5Sq7wQSAZGs79Cnt4HwehbcjODVpMmWG500/s1600/IMG_6479.JPG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"></a></div>
+<a href="/assets/img/blog/ba54dda8f9d0.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: left;"></a></div>
 <div class="separator" style="clear: both; text-align: left;">
 </div>
 <div class="separator" style="clear: both;">
 <br /></div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8OKymLg8XJsWwRE0q4wyNaOLyXMp81Q25aqmSD4aMACqFe3bywRE-yZlP6RJBv_312AAD20pZwwyM9_e3IvpxOdmCgx1gcmJEwuzIlU5uCj0J2cqvK7L8UeebXcwU54oaHY_Fd1t3PPQ/s640/blogger-image-646565130.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8OKymLg8XJsWwRE0q4wyNaOLyXMp81Q25aqmSD4aMACqFe3bywRE-yZlP6RJBv_312AAD20pZwwyM9_e3IvpxOdmCgx1gcmJEwuzIlU5uCj0J2cqvK7L8UeebXcwU54oaHY_Fd1t3PPQ/s320/blogger-image-646565130.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/4d0dbce7a4b1.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/652b80a2bd4f.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">上角件的安装后是这样的。</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both;">
 <br /></div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI79FR_zb7Xr3G_lr7V6Nt7C_wZcV-uVWvxr_d0yAhmAwwP6ZFm-9a1mwcs5AsuDIaNl2QJa5BuN1DgHvG8mWsNIiA-cmqppywj7CXtoqTlgIA5qFqbUj-q7LURQwl7DMDw73FexMgl-M/s640/blogger-image-1983226028.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI79FR_zb7Xr3G_lr7V6Nt7C_wZcV-uVWvxr_d0yAhmAwwP6ZFm-9a1mwcs5AsuDIaNl2QJa5BuN1DgHvG8mWsNIiA-cmqppywj7CXtoqTlgIA5qFqbUj-q7LURQwl7DMDw73FexMgl-M/s320/blogger-image-1983226028.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/3f81402788a1.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/cf49e7882c1f.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">这是上角件的重点，皮带主要接口位置。</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both;">
 </div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivru0fqun0c0YmURzp-3rYDoIaAicGXGtuzLdFqQW6mmSswbUPpt68nsaSWBBkkJt5shOfsRUI6_9lnsTGzJgOEiT2duulJTn5q5Kn2bj5lP3JlQEoaT_wwu8Rr9sFyrRM9xNosl7l7rA/s640/blogger-image--1448657123.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivru0fqun0c0YmURzp-3rYDoIaAicGXGtuzLdFqQW6mmSswbUPpt68nsaSWBBkkJt5shOfsRUI6_9lnsTGzJgOEiT2duulJTn5q5Kn2bj5lP3JlQEoaT_wwu8Rr9sFyrRM9xNosl7l7rA/s320/blogger-image--1448657123.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/a81a753a6c0a.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/e59263996a96.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">下角尖安装成品</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both;">
 </div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmU6jqefWPUK-2Tf2oFKzfFokL9jpactw1JdfkYic_qRcTpKiIHItBtQyMP32YW6M8GZiYubD0eagT6B8iH46wiXDvca5wL5PBUAyNREbfCl5Ra48_IVkW2qscI3OsBwfKmOgZF1Kr92Y/s640/blogger-image--1436265600.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmU6jqefWPUK-2Tf2oFKzfFokL9jpactw1JdfkYic_qRcTpKiIHItBtQyMP32YW6M8GZiYubD0eagT6B8iH46wiXDvca5wL5PBUAyNREbfCl5Ra48_IVkW2qscI3OsBwfKmOgZF1Kr92Y/s320/blogger-image--1436265600.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/f2d80953ab7a.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/4b74ef59caa9.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">接铝块前先把电机装好。</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY07WOy3DjCxT44TIqiLVGhnH-kSzuOgYuTPBDz0_R4RdYDP6kECKnyUywkrhPMSPjrM9_P2UOgzRt6drvsXWnj2zRfvfK1gl5jMuBVPEiP6guRJudUo7zgZLpg2T00_H2DXt5qn42N-E/s640/blogger-image--1246659636.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY07WOy3DjCxT44TIqiLVGhnH-kSzuOgYuTPBDz0_R4RdYDP6kECKnyUywkrhPMSPjrM9_P2UOgzRt6drvsXWnj2zRfvfK1gl5jMuBVPEiP6guRJudUo7zgZLpg2T00_H2DXt5qn42N-E/s320/blogger-image--1246659636.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/593eb9c6fae2.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/a7e1805f4e8c.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">下角件重点</td></tr>
 </tbody></table>
 <div class="separator" style="clear: both;">
 </div>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwODU9E4v3VWv9YR2auf0U7lFaXq3ZTgnc2TlO6kiPIBBoRTs6bzBz_zJ1ORnWrkEeQaKEeY_rhiJBRYM_xPoIqeVnSzQh0K0YWChtN-aH-IKYGzFq-EmXbEQzdkWsyRgHPXmjijwX8Tw/s640/blogger-image--265291649.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwODU9E4v3VWv9YR2auf0U7lFaXq3ZTgnc2TlO6kiPIBBoRTs6bzBz_zJ1ORnWrkEeQaKEeY_rhiJBRYM_xPoIqeVnSzQh0K0YWChtN-aH-IKYGzFq-EmXbEQzdkWsyRgHPXmjijwX8Tw/s320/blogger-image--265291649.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/de0c9561f6dc.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="/assets/img/blog/b55aa070a59f.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">上角件挤出机的安装。</td></tr>
 </tbody></table>
 <br />
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR2YkkVL0e59pWRT1sSDiZ2mev2zfSdoE0QJGVRJxePDZTL-qoj2-te0golsOOVI2U6MCpELCrMQfjQMyzEjVKPeYEN7FvnAdWtxS9sh_7dAMIAJaT8ye0Gy9m2bY1S-H2ofRoPqBImGg/s640/blogger-image--1619451140.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR2YkkVL0e59pWRT1sSDiZ2mev2zfSdoE0QJGVRJxePDZTL-qoj2-te0golsOOVI2U6MCpELCrMQfjQMyzEjVKPeYEN7FvnAdWtxS9sh_7dAMIAJaT8ye0Gy9m2bY1S-H2ofRoPqBImGg/s320/blogger-image--1619451140.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/59e290e92b9b.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="/assets/img/blog/281e02640b47.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">下角件中间部分安装</td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIiHygOEYRycpuTQnexlnUhNa5Hw1g3Fkz1w-9KP9QO9ucRSPL2vlJanuK8QjITYChcg-HmfAYqbuVjkTbjxrGrc8Eq8seop-0KdYRkcO02GafrnsmGkLTFQjxU7VbuT85fYFNno7IuUU/s640/blogger-image-693521441.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIiHygOEYRycpuTQnexlnUhNa5Hw1g3Fkz1w-9KP9QO9ucRSPL2vlJanuK8QjITYChcg-HmfAYqbuVjkTbjxrGrc8Eq8seop-0KdYRkcO02GafrnsmGkLTFQjxU7VbuT85fYFNno7IuUU/s320/blogger-image-693521441.jpg" width="240" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/f92d8943a4f6.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/c397f6814ab0.jpg" width="240" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">为了好看 吧电线塞进孔里 省的电线满天飞。</td></tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1ITXps5bMWVcnQbNsAx_3X-ZGMjBGtSSJ_kL5Y57LRkGGFaZEF1DzhPOytlzVrNfeUHrAAu8ZV7A0i1J0TVFWU1Ub7crvddgc0YMFkqUn-nWZC1XxRs0utqyIwHPfzb3Qt9vNKANa6k/s640/blogger-image-1778871926.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1ITXps5bMWVcnQbNsAx_3X-ZGMjBGtSSJ_kL5Y57LRkGGFaZEF1DzhPOytlzVrNfeUHrAAu8ZV7A0i1J0TVFWU1Ub7crvddgc0YMFkqUn-nWZC1XxRs0utqyIwHPfzb3Qt9vNKANa6k/s320/blogger-image-1778871926.jpg" width="240" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/361c9caa3e58.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/9b94fc44323a.jpg" width="240" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">这个锁起之前记得先装好滑车 不然就得拆开了</td></tr>
 </tbody></table>
 <br />
 <br />
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7CI6pGuUprzEJ_TDqJtqhPs-bugedDMzkVOgj_vhlG1RLmSh5igAxBUL_mZZkAidck1-C8ZHRLsxa2qGsl3Y9o0kHkMir51_ZC0lrDOzbbnQwQQtNeebhErA_WYAzTsY69qo34UkagXM/s640/blogger-image--63544284.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7CI6pGuUprzEJ_TDqJtqhPs-bugedDMzkVOgj_vhlG1RLmSh5igAxBUL_mZZkAidck1-C8ZHRLsxa2qGsl3Y9o0kHkMir51_ZC0lrDOzbbnQwQQtNeebhErA_WYAzTsY69qo34UkagXM/s320/blogger-image--63544284.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/6372aae21818.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="/assets/img/blog/3cdb90ef09c7.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">因为不满意别人打印的零件，自己换了一个高精度的。</td></tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: 1em; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaSDOdiZI3jDbSoehUeoV3RzFY25yTLTC6Ld-SeedygLWiA89ut2SiapkO9AijyI-FNFtzfpRxd47VhMYZFIEDLiUwP4g6FYZvNCTC6KTDRuw23VoLE_enR-M0XEVy_hO4XM9Iulqayg/s640/blogger-image--386189009.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDaSDOdiZI3jDbSoehUeoV3RzFY25yTLTC6Ld-SeedygLWiA89ut2SiapkO9AijyI-FNFtzfpRxd47VhMYZFIEDLiUwP4g6FYZvNCTC6KTDRuw23VoLE_enR-M0XEVy_hO4XM9Iulqayg/s320/blogger-image--386189009.jpg" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/44e48302a6ad.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="240" src="/assets/img/blog/d183ebcd4b8f.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">挤出机部分 细节忘了拍照，将来再组装的时候补吧 &gt;.&lt;<br />
 <div class="separator" style="clear: both;">
 </div>
@@ -166,13 +166,13 @@ tags:
 <br /></td></tr>
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR8vT3VdN-z-jGbgGMnOu-4sQeru-IqrUclwQLPcfND1pJ9IQK36T1zMXbFtFh1Ex2rTeJE_lwzy9kXU8yp0664wra1a6KymfGX1CyGNRL8Ywk3owyn8jcjEYRfrg7bwhHgiqB0wjrG3Q/s640/blogger-image-399835309.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR8vT3VdN-z-jGbgGMnOu-4sQeru-IqrUclwQLPcfND1pJ9IQK36T1zMXbFtFh1Ex2rTeJE_lwzy9kXU8yp0664wra1a6KymfGX1CyGNRL8Ywk3owyn8jcjEYRfrg7bwhHgiqB0wjrG3Q/s400/blogger-image-399835309.jpg" width="400" /></a></td></tr>
+<tr><td><a href="/assets/img/blog/88b4a9771241.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="400" src="/assets/img/blog/7ad97ce6416d.jpg" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="font-size: 12.8000001907349px;">这是第一台整体完成图 恩 忘了加入银幕 也是2个月前的事了。</td></tr>
 </tbody></table>
 <br />
 <div>
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVaWQZKxPcKN0QfSKN_GFy2BDgG4xvhh2WQPMvfQdLc3PEiRDwMKNgm_m7lgYjlFNjtNKfhD9aViiMTACkizFE4eXCJ_e97xvQgIq3aluH4GhHYX-FAKnP54OIACv4a9s-NitYQRzlQ5o/s640/blogger-image--1111744201.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVaWQZKxPcKN0QfSKN_GFy2BDgG4xvhh2WQPMvfQdLc3PEiRDwMKNgm_m7lgYjlFNjtNKfhD9aViiMTACkizFE4eXCJ_e97xvQgIq3aluH4GhHYX-FAKnP54OIACv4a9s-NitYQRzlQ5o/s400/blogger-image--1111744201.jpg" width="300" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="/assets/img/blog/7e4647d79763.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="400" src="/assets/img/blog/3ef4ba204b76.jpg" width="300" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">这是昨天花了5小时组装好的 强化滑轨版。替朋友组装的。上面是我的网址 1m3dp.com 有兴趣可以去看看~</td></tr>
 </tbody></table>
 <br />

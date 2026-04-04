@@ -26,7 +26,7 @@ Parallels 8 虽然当场没看清楚内容 只知道是让mac运行window<br />
 价格还真不便宜啊！购买的话还是算了<br />
 试试再说<br />
 <div class="separator" style="clear: both; text-align: left;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIyTq5IOG0iFAS6vEM8w_qvYPfDO1SasVluAo6Q_8eblMhHtCGA-ZI50hHhyphenhyphen1ldtCdWlP2N9UBVQ1O3rkdZVIjer5r5xgJ8nY5P5nDWoOTZ1fFZ5jAOZopuiNAGKUNsurX5wNjYQWte_8/s1600/(R)Photo0084.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIyTq5IOG0iFAS6vEM8w_qvYPfDO1SasVluAo6Q_8eblMhHtCGA-ZI50hHhyphenhyphen1ldtCdWlP2N9UBVQ1O3rkdZVIjer5r5xgJ8nY5P5nDWoOTZ1fFZ5jAOZopuiNAGKUNsurX5wNjYQWte_8/s320/(R)Photo0084.jpg" width="320" /></a></div>
+<a href="/assets/img/blog/da3f778af1d7.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="240" src="/assets/img/blog/fa93f98306d7.jpg" width="320" /></a></div>
 <br />
 今天稍微有空就上网找了找<br />
 直接找了个破解版测试<br />
