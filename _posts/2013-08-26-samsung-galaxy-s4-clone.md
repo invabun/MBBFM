@@ -1,0 +1,101 @@
+---
+title: "实测 SAMSUNG GALAXY S4 CLONE "
+date: 2013-08-26
+tags:
+  - "评测"
+---
+
+<b>什么叫做韩国产的CLONE 手机？</b><br />
+传闻说这是韩国制作的高仿手机，据说高配置版本有99%复制。<br />
+这是不是真的呢？<br />
+<br />
+今天我为了满足自己的好奇 为自我牺牲入手了一台。<br />
+给大家真实的答案。<br />
+<br />
+<a name='more'></a><br />
+<br />
+目录：<br />
+好奇1：网络售卖的翻版（CLONE 99%）传闻是韩国产，这到底是不是真的？<br />
+好奇2：高清OLED屏幕到底有多高清？<br />
+好奇3：99%配置是否真实？<br />
+好奇4：电容量如何？<br />
+好奇5：用软件\玩游戏可以吗？<br />
+结论：它的价值。<br />
+<br />
+<b>好奇1：网络售卖的翻版（CLONE 99%）商人说是韩国产，这到底是不是真的？</b><br />
+DO YOU REALLY BELIEVE THIS SHIT？<br />
+韩国是自尊心超强的国家，让他们去出山寨．．．算了吧<br />
+当然不是因为这么主观的原因让我说不是韩国产的。<br />
+机子上的内容（全部写made in Korea）<br />
+可是有一个地方非常神奇的 出现了联通电信......<br />
+这个大家知道什么情况了吧。<br />
+别CLONE了这只是高品质山寨而已.....<br />
+<br />
+图片：<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghIbkJA8VJLhxuu0H5dZD90TbnxagUpglv0bdl0WrGLkNcWEqG2nIZYbMsmuWFhq7NGDU3lhHQbThNJTvaS1zDl11dq9n-wEqk4vqdiJSFxJWFGyuMLWI6lKlW2b_88YkNWkr1ncxnBbA/s1600/DSC_0028.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghIbkJA8VJLhxuu0H5dZD90TbnxagUpglv0bdl0WrGLkNcWEqG2nIZYbMsmuWFhq7NGDU3lhHQbThNJTvaS1zDl11dq9n-wEqk4vqdiJSFxJWFGyuMLWI6lKlW2b_88YkNWkr1ncxnBbA/s320/DSC_0028.JPG" width="240" /></a></div>
+<br />
+<b>好奇2：高清OLED屏幕到底有多高清？</b><br />
+这一点我倒承认 的却很清晰 确实是OLED，其实OLED成本比旧款LED便宜<br />
+而且更省电，山寨会用上也不出奇<br />
+高清程度可比拟真的机器<br />
+可是偷鸡了0.2寸，用山寨的别自作聪明用有屏幕显示的smart cover，<br />
+那只会让你的山寨漏洞百出。<br />
+<br />
+<b>好奇3：99%配置是否真实？</b><br />
+打开设置内看配置，哇塞！真的一模一样呐！<br />
+慢着怎么怪怪的，显示比例怎么怪怪的。<br />
+储存 10GB 下载一堆软件后 下面图表显示占用比例50% 可是是500MB/10GB<br />
+RAM 2GM 显示比例90% 可是文字是 400MB/2GB<br />
+<br />
+好了，说到这里大家明白了吧<br />
+所有内容是可以改变的，软件是开源 你有功底的话爱改多少都行。<br />
+只是改图比例可能比较麻烦 被省略掉了吧。<br />
+RAM有512<br />
+容量只有1GB<br />
+<br />
+也许真的有高配版本哦，你愿意去尝试吗？<br />
+<br />
+<b>好奇4：电容量如何？</b><br />
+正版的一样的容量 2800左右，用起来 那么大的屏幕 可以连续玩着用6个小时<br />
+待机还是能待上大半天的。<br />
+还算ok。<br />
+<br />
+<b>好奇5：</b>&nbsp;<b>用软件、玩游戏可以吗？</b><br />
+当然可以毕竟还是安卓 随便去market下载就可以了，<br />
+切水果，temple run，上上网 看看youtube 都没问题。<br />
+只要不同时开几个 基本不会卡。<br />
+但是要注意高热问题...<br />
+<br />
+<b>结论：它的价值。</b><br />
+RM500-800块左右据说有不同配置，我测试的是便宜的一台。<br />
+但是你不需要去lowyat找 因为整个lowyat 都不懂这个东西，<br />
+只有特定的供应商在网络上销售。<br />
+一部512ram 其它功能都还ok并且高清大屏幕的手机<br />
+RM500 这个价位其实个人觉得是合理的。<br />
+<br />
+<b>适合什么人呢？</b><br />
+对喜欢名牌又没有钱的朋友，<br />
+因为模仿确实很像，不很小心的查看根本看不出来。<br />
+<br />
+对于没什么要求又只是想拿来玩游戏的朋友，<br />
+加一个外置充电器已经是不错的选择了。<br />
+<br />
+对八卦的朋友..(我)<br />
+我女朋友老骂我，总是对什么东西都好奇要搞清楚的笨蛋<br />
+<br />
+实际上我研究后就厌倦了<br />
+转手卖给一位没有什么要求只是想玩游戏的马来朋友。<br />
+他可是喜欢得很，并且非常高兴。<br />
+让我更加坚信这个东西是有它存在的价值的。<br />
+只是...他是不是适合你我来说而已。<br />
+（俺注重实用型 用着超实用3防手机 SONY ACTIVE）<br />
+<br />
+免责申明<br />
+以上纯属个人言论。不针对任何人、事、物。<br />
+实际情况还请各位有兴趣研究者自行研究并给与评价。<br />
+真实与否请各位自行判断。感谢。<br />
+<br />
+转发请注明我的博客<br />
+麵包仙人居<br />
+<a href="http://ahbundance.blogspot.com/">http://ahbundance.blogspot.com/</a>
