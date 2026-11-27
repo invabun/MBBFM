@@ -1,5 +1,7 @@
 # Chirpy Starter
 
+For tasks on the MBBFM publication, use the [agent operations skill](docs/skills/operate-mbbfm/SKILL.md) for content inputs, preview, checks and release ownership.
+
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
